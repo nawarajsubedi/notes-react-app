@@ -1,6 +1,11 @@
-# Getting Started with Create React App
+# Notes Webapp
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This Note-Taker application allows users to create, edit, and manage notes with an auto-save feature. Users can also set reminders for specific notes, using a date and time picker, and receive email notifications for the reminders. The frontend is developed using React, offering a user-friendly interface for creating and searching notes.
+
+## Features:
+- Note Creation: Users can create, update, delete, and manage notes.
+- Auto-Save: Notes auto-save every few seconds while the user is typing.
+- Reminder Setup: Users can set a reminder for notes, and receive email notifications.
 
 ## Available Scripts
 
